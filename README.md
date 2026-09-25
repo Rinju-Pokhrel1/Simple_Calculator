@@ -3,6 +3,7 @@
 A simple calculator built using HTML, CSS, and JavaScript.
 
 ## Features
+
 - Addition
 - Subtraction
 - Multiplication
@@ -17,6 +18,10 @@ A simple calculator built using HTML, CSS, and JavaScript.
 - HTML
 - CSS
 - JavaScript
+
+## Live Demo
+
+[View Calculator](https://simple-calculator-liart-alpha.vercel.app/)
 
 ## How to Run
 
